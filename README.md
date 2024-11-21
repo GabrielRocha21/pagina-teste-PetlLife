@@ -9,4 +9,8 @@
   <p>- JavaScript</p>
 <br>
 
-<img scr="https://raw.githubusercontent.com/GabrielRocha21/pagina-teste-PetlLife/refs/heads/master/Petlife/img/Captura%20de%20tela%202024-11-21%20113410.png">
+<img height="300px" src="https://github.com/GabrielRocha21/pagina-teste-PetlLife/blob/master/Petlife/img/Captura%20de%20tela%202024-11-21%20113410.png?raw=true"/>
+<br>
+<img  height="300px" src="https://github.com/GabrielRocha21/pagina-teste-PetlLife/blob/master/Petlife/img/Captura%20de%20tela%202024-11-21%20113507.png?raw=true"/>
+<br>
+<img  height="300px" src="https://github.com/GabrielRocha21/pagina-teste-PetlLife/blob/master/Petlife/img/Captura%20de%20tela%202024-11-21%20113546.png?raw=true"/>
